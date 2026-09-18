@@ -1,0 +1,7 @@
+# generated outputs (remove the line below if you want to track a submission)
+submission.csv
+
+# python / jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
